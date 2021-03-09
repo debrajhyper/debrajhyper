@@ -13,15 +13,15 @@
 
 - 👨‍💻 All of my projects are available at [kiwismedia.com/@debraj](kiwismedia.com/@debraj)
 
-- 📝 I write articles on [[Medium](https://debrajkarmakar-25805.medium.com/)]([Medium](https://debrajkarmakar-25805.medium.com/))
+- 📝 I write articles on [Medium](https://debrajkarmakar-25805.medium.com/)
 
 - 💬 Ask me about **JS or any tech related stuff**
 
-- 📫 How to reach me **[Linkedin - @debraj](https://www.linkedin.com/in/debraj-karmakar-275570199/) , [Port - @Debraj](https://kiwismedia.com/@debraj)**
+- 📫 How to reach me **[debrajkarmakar010@gmail.com](debrajkarmakar010@gmail.com)**
 
 - ⚡ Fun fact **I think I am funny XD 😛**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color:white;">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/debrajhyper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="debrajhyper" height="30" width="40" /></a>
 <a href="https://twitter.com/debraj_010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="debraj_010" height="30" width="40" /></a>
