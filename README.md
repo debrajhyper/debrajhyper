@@ -11,25 +11,27 @@
 
 - 🌱 I’m currently learning **[React js](https://www.youtube.com/watch?v=4UZrsTqkcW4)**
 
-- 👨‍💻 All of my projects are available at [https://kiwismedia.com/@debraj](https://kiwismedia.com/@debraj)
+- 👨‍💻 All of my projects are available at [kiwismedia.com/@debraj](kiwismedia.com/@debraj)
 
-- 📝 I write articles on [https://debrajkarmakar-25805.medium.com/](https://debrajkarmakar-25805.medium.com/)
+- 📝 I write articles on [[Medium](https://debrajkarmakar-25805.medium.com/)]([Medium](https://debrajkarmakar-25805.medium.com/))
 
 - 💬 Ask me about **JS or any tech related stuff**
 
 - 📫 How to reach me **[Linkedin - @debraj](https://www.linkedin.com/in/debraj-karmakar-275570199/) , [Port - @Debraj](https://kiwismedia.com/@debraj)**
 
-- ⚡ Fun fact **I think I am funny XD**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I think I am funny XD 😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/debrajhyper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="debrajhyper" height="30" width="40" /></a>
 <a href="https://twitter.com/debraj_010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="debraj_010" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debraj-karmakar-275570199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="debraj-karmakar-275570199" height="30" width="40" /></a>
+<a href="https://fb.com/debraj.karmakar.923" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="debraj.karmakar.923" height="30" width="40" /></a>
+<a href="https://instagram.com/debraj010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="debraj010" height="30" width="40" /></a>
+<a href="https://dribbble.com/iklovejt3652" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="iklovejt3652" height="30" width="40" /></a>
+<a href="https://www.behance.net/debrajkarmakar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="debrajkarmakar" height="30" width="40" /></a>
 <a href="https://medium.com/@debrajkarmakar-25805" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@debrajkarmakar-25805" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/debrajkarmakar01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="debrajkarmakar01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
