@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Debraj Karmakar 👋</h1>
+<h1 align="center">Ōhē, I'm Debraj Karmakar 👋</h1>
 <h3 align="center">3rd-year Under Graduate computer science and engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debrajhyper&label=Profile%20views&color=0e75b6&style=flat" alt="debrajhyper" /> </p>
