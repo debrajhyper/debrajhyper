@@ -1,5 +1,5 @@
 <h1 align="center">Ōhē, I'm Debraj Karmakar 👋</h1>
-<h3 align="center">It's my pleasure to see you here
+<h3 align="left">It's my pleasure to see you here
 
 Perfection-obsessed Web Developer, currently I am a Computer Science Engineering student. My interests range from technology to design. I am also interested in art, creativity, entrepreneurship, and travel.
 
