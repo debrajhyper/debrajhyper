@@ -59,3 +59,7 @@ Currently Web and Design enthusiast. </h3>
 <a href="https://github.com/debrajhyper/this.weather">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&theme=radical" alt="debrajhyper" />
 </a>
+<a href="https://github.com/debrajhyper/COV-19-India">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&theme=radical" alt="debrajhyper" />
+</a>
+
