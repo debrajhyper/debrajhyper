@@ -17,7 +17,7 @@ Currently Web and Design enthusiast. </h3>
 
 - 🌱 I’m currently learning **[React js](https://www.youtube.com/watch?v=4UZrsTqkcW4)**
 
-- 👨‍💻 All of my projects are available at [kiwismedia.com/@debraj](kiwismedia.com/@debraj)
+- 👨‍💻 All of my projects are available at [kiwismedia.com/@debraj](https://kiwismedia.com/@debraj)
 
 - 📝 I write articles on [Medium](https://debrajkarmakar-25805.medium.com/)
 
