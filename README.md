@@ -15,13 +15,13 @@ Currently Web and Design enthusiast. </h3>
 
 - 🔭 I’m currently working on **Defect Tracking System**
 
-- 🌱 I’m currently learning **[React js](https://www.youtube.com/watch?v=4UZrsTqkcW4)**
+- 🌱 I’m currently learning **[Spring Boot](https://www.youtube.com/watch?v=vtPkZShrvXQ)**
 
-- 👨‍💻 All of my projects are available at [kiwismedia.com/@debraj](https://kiwismedia.com/@debraj)
+- 👨‍💻 All of my projects are available at [fueler.io/@debraj](https://fueler.io/debraj)
 
 - 📝 I write articles on [Medium](https://debrajkarmakar-25805.medium.com/)
 
-- 💬 Ask me about **JS or any tech related stuff**
+- 💬 Ask me about **Designe or any tech related stuff**
 
 - 📫 How to reach me **[debrajkarmakar010@gmail.com](debrajkarmakar010@gmail.com)**
 
