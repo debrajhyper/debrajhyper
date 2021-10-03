@@ -47,14 +47,14 @@ Currently Web and Design enthusiast. </h3>
 
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&langs_count=10&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&langs_count=10&layout=compact&theme=radical" alt="debrajhyper"  />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical" alt="debrajhyper" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=debrajhyper&show_icons=true&locale=en&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=debrajhyper&show_icons=true&locale=en&theme=radical" alt="debrajhyper" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact" alt="debrajhyper" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical" alt="debrajhyper" />
 </a>
 <a href="https://github.com/debrajhyper/this.weather">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&theme=radical" alt="debrajhyper" />
