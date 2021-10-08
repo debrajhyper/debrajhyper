@@ -7,9 +7,6 @@ Loves open-sourcing cool projects on Github and helping the Web community on Sta
 
 Currently Web and Design enthusiast. </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=debrajhyper&label=Profile%20views&color=0e75b6&style=flat" alt="debrajhyper"/>
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -17,16 +14,11 @@ Currently Web and Design enthusiast. </h3>
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/debraj_010" target="blank">
-    <img src="https://img.shields.io/twitter/follow/debraj_010?logo=twitter&style=for-the-badge" alt="debraj_010"/>
-  </a>
-</p>
-
 I'm a people person, let's connect!
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/Perez84Elena)
 [![](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/elena-perez-2a5890192/)
+
 
 - 🔭 I’m currently working on **Personal Contact Manager Project**
 
@@ -82,179 +74,76 @@ I'm a people person, let's connect!
 </p>
 
 
-## Languages and Tools:
 
 <p align="left">
 
+## 🎯 Things I code with
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
+
+## ⚡ Frameworks/Library I use:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30px"></span>&nbsp;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <!-- <a href="https://aws.amazon.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="30"/>
-  </a>
-  
-  <a href="https://babeljs.io/">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30"/>
-  </a>
-  
-  <a href="https://getbootstrap.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
-  </a>
-  
-  <a href="https://www.cprogramming.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-  </a>
-
-  <a href="https://canvasjs.com">
-  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="30" height="30"/>
-  </a>
-  
-  <a href="https://www.chartjs.org">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/css/"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
-  </a>
-
-  <a href="https://d3js.org/"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="30" height="30"/> 
-  </a>
-
-  <a href="https://www.figma.com/"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
-  </a>
-
-  <a href="https://git-scm.com/"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-  </a>
-
-  <a href="https://www.w3.org/html/"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
-  </a>
-
-  <a href="https://www.adobe.com/in/products/illustrator.html"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> 
-  </a>
-
-  <a href="https://www.java.com"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-  </a>
-
-  <a href="https://materializecss.com/"> 
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/> 
-  </a>
-
-  <a href="https://www.mysql.com/"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-  </a>
-
-  <a href="https://www.photoshop.com/en"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> 
-  </a>
-
-  <a href="https://postman.com"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
-  </a>
-
-  <a href="https://reactjs.org/"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
-  </a>
-
-  <a href="https://sass-lang.com"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
-  </a>
-
-  <a href="https://tailwindcss.com/"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
-  </a>
-
-  <a href="https://webpack.js.org"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="30" height="30"/> 
-  </a>
-
-  <a href="https://www.adobe.com/products/xd.html"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> 
-  </a> -->
+## 🔥 Tools I use:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30px"/></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="30px"></span>&nbsp;
 
 </p>
 
 
+<h2 align="center">Profile stats 📉</h2>
+<br>
 
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=debrajhyper&style=flat-square&color=4287f5"></p>
 
 <p align="center">
-
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical" alt="debrajhyper" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api?username=debrajhyper&show_icons=true&locale=en&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debrajhyper&show_icons=true&local=en&theme=radical" alt="debrajhyper" />
-</a>
-
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical" alt="debrajhyper" />
-</a>
-
-<a href="https://github.com/debrajhyper/this.weather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&theme=radical" alt="debrajhyper" />
-</a>
-
-<a href="https://github.com/debrajhyper/COV-19-India">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&theme=radical" alt="debrajhyper" />
-</a>
-
+  <img width="370px" alt="Debraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=debrajhyper&custom_title=Overall+Activity&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" />
+  
+  <img width="370px" alt="Debraj's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </p>
 
-<<<<<<< HEAD
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&custom_title=Top+Language's+Used&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff">
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=debrajhyper&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
+</p>
+
+<br/>
+<br/>
+
+<p align="center">
+  <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
+
+  <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
+</p>
+
+
+
 <!-- ![Debraj's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical) -->
-=======
-
-
-
-<p align="center">
-  
-![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical)
-  
-![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=debrajhyper&show_icons=true&locale=en&theme=radical)
-  
-![Debraj's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical)
-  
-![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&theme=radical)
-  
-![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&theme=radical)
-  
-</p>
->>>>>>> 9b5fd78c667354949177954e3966f9e989c9f006
