@@ -16,7 +16,6 @@ I'm a people person, let's connect!
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/Perez84Elena)&nbsp;
 [![LinkedIn URL](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/elena-perez-2a5890192/)
 
-<br/>
 
 - 🔭 I’m currently working on **Personal Contact Manager Project**
 
@@ -31,6 +30,8 @@ I'm a people person, let's connect!
 - 📫 How to reach me **[debrajkarmakar010@gmail.com](debrajkarmakar010@gmail.com)**
 
 - ⚡ Fun fact **I think I am funny XD 😛**
+
+<br/>
 
 ## 💌 Connect with me:
 
