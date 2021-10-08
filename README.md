@@ -138,9 +138,13 @@ I'm a people person, let's connect!
 <br/>
 
 <p align="center">
-  <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
+  <a href="https://github.com/debrajhyper/this.weather">
+    <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
+  </a>
 
-  <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
+  <a href="https://github.com/debrajhyper/COV-19-India">
+    <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
+  </a>
 </p>
 
 
