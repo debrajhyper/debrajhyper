@@ -86,7 +86,7 @@ I'm a people person, let's connect!
 
 <p align="left">
 
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<!-- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
@@ -94,6 +94,7 @@ I'm a people person, let's connect!
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+ -->
 
 
 
@@ -114,8 +115,7 @@ I'm a people person, let's connect!
 
 
 
-
-  <!-- <a href="https://aws.amazon.com">
+  <a href="https://aws.amazon.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="30"/>
   </a>
   
@@ -205,7 +205,7 @@ I'm a people person, let's connect!
 
   <a href="https://www.adobe.com/products/xd.html"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> 
-  </a> -->
+  </a>
 
 </p>
 
@@ -238,23 +238,6 @@ I'm a people person, let's connect!
 
 </p>
 
-<<<<<<< HEAD
+
 <!-- ![Debraj's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical) -->
-=======
 
-
-
-<p align="center">
-  
-![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical)
-  
-![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=debrajhyper&show_icons=true&locale=en&theme=radical)
-  
-![Debraj's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical)
-  
-![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&theme=radical)
-  
-![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&theme=radical)
-  
-</p>
->>>>>>> 9b5fd78c667354949177954e3966f9e989c9f006
