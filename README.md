@@ -221,7 +221,7 @@ I'm a people person, let's connect!
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api?username=debrajhyper&show_icons=true&locale=en&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debrajhyper&show_icons=true&locale=en&theme=radical" alt="debrajhyper" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debrajhyper&show_icons=true&local=en&theme=radical" alt="debrajhyper" />
 </a>
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical">
@@ -238,4 +238,23 @@ I'm a people person, let's connect!
 
 </p>
 
+<<<<<<< HEAD
 <!-- ![Debraj's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical) -->
+=======
+
+
+
+<p align="center">
+  
+![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical)
+  
+![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=debrajhyper&show_icons=true&locale=en&theme=radical)
+  
+![Debraj's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical)
+  
+![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&theme=radical)
+  
+![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&theme=radical)
+  
+</p>
+>>>>>>> 9b5fd78c667354949177954e3966f9e989c9f006
