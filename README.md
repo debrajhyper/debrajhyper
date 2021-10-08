@@ -8,17 +8,15 @@ Loves open-sourcing cool projects on Github and helping the Web community on Sta
 Currently Web and Design enthusiast. </h3>
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=debrajhyper" alt="debrajhyper"/>
-  </a>
-</p>
+![Debraj's Trophy](https://github-profile-trophy.vercel.app/?username=debrajhyper&row=1&margin-w=20&no-frame=true&no-bg=true&theme=algolia)
+
 
 I'm a people person, let's connect!
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/Perez84Elena)
-[![](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/elena-perez-2a5890192/)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/Perez84Elena)&nbsp;
+[![LinkedIn URL](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/elena-perez-2a5890192/)
 
+<br/>
 
 - 🔭 I’m currently working on **Personal Contact Manager Project**
 
@@ -34,7 +32,7 @@ I'm a people person, let's connect!
 
 - ⚡ Fun fact **I think I am funny XD 😛**
 
-## Connect with me:
+## 💌 Connect with me:
 
 <p align="left" style="display:flex; justify-content:space-evenly; width:40%">
 
@@ -73,11 +71,11 @@ I'm a people person, let's connect!
   <!-- <a href="https://www.hackerrank.com/debrajkarmakar01"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="debrajkarmakar01" height="30" width="40" /></a> -->
 </p>
 
-
+<br/>
 
 <p align="left">
 
-## 🎯 Things I code with
+## 🎯 Things I code with:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px"></span>&nbsp;
@@ -115,8 +113,9 @@ I'm a people person, let's connect!
 
 </p>
 
+<br/>
 
-<h2 align="center">Profile stats 📉</h2>
+<h2 align="center">Profile Stats 📉</h2>
 <br>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=debrajhyper&style=flat-square&color=4287f5"></p>
@@ -135,7 +134,6 @@ I'm a people person, let's connect!
   <img src="https://activity-graph.herokuapp.com/graph?username=debrajhyper&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
 </p>
 
-<br/>
 <br/>
 
 <p align="center">
