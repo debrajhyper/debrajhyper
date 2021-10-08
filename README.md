@@ -13,7 +13,7 @@ Currently Web and Design enthusiast. </h3>
 
 I'm a people person, let's connect!
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/debraj_010)&nbsp;
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/debraj_010.svg?style=social&label=Follow)](https://twitter.com/debraj_010)&nbsp;
 [![LinkedIn URL](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/debrajkarmakar010/)
 
 
