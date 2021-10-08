@@ -23,9 +23,14 @@ Currently Web and Design enthusiast. </h3>
   </a>
 </p>
 
+I'm a people person, let's connect!
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/Perez84Elena)
+[![](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/elena-perez-2a5890192/)
+
 - 🔭 I’m currently working on **Personal Contact Manager Project**
 
-- 🌱 I’m currently learning **[Spring Boot](https://www.youtube.com/watch?v=vtPkZShrvXQ)**
+- 🌱 I’m currently learning **[Spring Boot Framework](https://www.youtube.com/watch?v=vtPkZShrvXQ)** and developing proficiency with **Java**
 
 - 👨‍💻 All of my projects are available at [fueler.io/@debraj](https://fueler.io/debraj)
 
@@ -81,7 +86,36 @@ Currently Web and Design enthusiast. </h3>
 
 <p align="left">
 
-  <a href="https://aws.amazon.com">
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- <a href="https://aws.amazon.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="30"/>
   </a>
   
@@ -171,7 +205,7 @@ Currently Web and Design enthusiast. </h3>
 
   <a href="https://www.adobe.com/products/xd.html"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> 
-  </a>
+  </a> -->
 
 </p>
 
@@ -180,6 +214,7 @@ Currently Web and Design enthusiast. </h3>
 
 
 <p align="center">
+
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical" alt="debrajhyper" />
@@ -202,3 +237,5 @@ Currently Web and Design enthusiast. </h3>
 </a>
 
 </p>
+
+<!-- ![Debraj's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical) -->
