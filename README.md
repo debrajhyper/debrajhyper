@@ -79,7 +79,7 @@ Currently Web and Design enthusiast. </h3>
 
 ## Languages and Tools:
 
-<p align="center">
+<p align="left">
 
   <a href="https://aws.amazon.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="30"/>
@@ -179,6 +179,7 @@ Currently Web and Design enthusiast. </h3>
 
 
 
+<p align="center">
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&theme=radical" alt="debrajhyper" />
@@ -199,3 +200,5 @@ Currently Web and Design enthusiast. </h3>
 <a href="https://github.com/debrajhyper/COV-19-India">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&theme=radical" alt="debrajhyper" />
 </a>
+
+</p>
