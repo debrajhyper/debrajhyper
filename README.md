@@ -79,7 +79,7 @@ Currently Web and Design enthusiast. </h3>
 
 ## Languages and Tools:
 
-<p align="left">
+<p align="center">
 
   <a href="https://aws.amazon.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="30"/>
