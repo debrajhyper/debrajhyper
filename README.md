@@ -150,5 +150,14 @@ I'm a people person, let's connect!
 </p>
 
 
+<br/>
+
+If you like my content, please consider buying me a coffee :coffee:
+<br />
+<br />
+Thank you for your support! 
+
+[<img align="left" alt="Buy Me A Coffee" height="40" width="160" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://www.buymeacoffee.com/debrajkarmakar)
+
 
 <!-- ![Debraj's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=debrajhyper&theme=radical) -->
