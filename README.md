@@ -9,8 +9,6 @@ Loves open-sourcing cool projects on Github and helping the Web community on Sta
 Currently 💻 Web and 🎨 Design enthusiast.
 </p>
 
-![Profile views](https://gpvc.arturio.dev/debrajhyper) 
-<br/>
 
 ![Debraj's Trophy](https://github-profile-trophy.vercel.app/?username=debrajhyper&row=1&margin-w=20&no-frame=true&no-bg=true&theme=algolia)
 
