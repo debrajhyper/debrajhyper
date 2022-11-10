@@ -1,4 +1,4 @@
-<h1 align="center">Ōhē, I'm Debraj Karmakar 👋</h1>
+<h1 align="center">Hi, I'm Debraj Karmakar 👋</h1>
 <p>
 Perfection-obsessed Web Developer, currently I am a Computer Science Engineering student. My interests range from technology to design. I am also interested in art, creativity, entrepreneurship, and travel.
 <br>
@@ -19,7 +19,7 @@ I'm a people person, let's connect!
 [![LinkedIn URL](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/debrajkarmakar010/)
 
 
-- 🔭 I’m currently working on **Personal Contact Manager Project**
+- 🔭 I’m currently working on **[Personal Contact Manager Project](https://github.com/debrajhyper/Personal-Contact-Manager)** - [live](https://pcm.vercel.app/)
 
 - 🌱 I’m currently learning **[Spring Boot Framework](https://www.youtube.com/watch?v=vtPkZShrvXQ)** and developing proficiency with **Java**
 
@@ -85,6 +85,7 @@ I'm a people person, let's connect!
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
 
 ## ⚡ Frameworks/Library I use:
@@ -94,11 +95,14 @@ I'm a people person, let's connect!
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30px"></span>&nbsp;
 
 ## 🔥 Tools I use:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
@@ -144,8 +148,8 @@ I'm a people person, let's connect!
     <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=this.weather&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
   </a>
 
-  <a href="https://github.com/debrajhyper/COV-19-India">
-    <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=COV-19-India&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
+  <a href="https://github.com/debrajhyper/Personal-Contact-Manager">
+    <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=debrajhyper&repo=Personal-Contact-Manager&show_owner=true&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff" alt="debrajhyper" />
   </a>
 </p>
 
