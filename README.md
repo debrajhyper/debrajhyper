@@ -137,9 +137,11 @@ I'm a people person, let's connect!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajhyper&exclude_repo=SIH2020_AN317_YAAN-master,NGO-B.G.U.S.&langs_count=50&layout=compact&custom_title=Top+Language's+Used&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&title_color=2e7eff&text_color=878787&icon_color=2e7eff">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=debrajhyper&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
-</p>
+</p> -->
+
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <br/>
 
