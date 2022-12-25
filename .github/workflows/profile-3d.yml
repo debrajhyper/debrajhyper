@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - uses: debrajhyper/github-profile-3d-contrib@0.7.0
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: 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
           USERNAME: debrajhyper
