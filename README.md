@@ -21,11 +21,11 @@ I'm a people person, let's connect!
 
 - 🔭 I’m currently working on **[Personal Contact Manager Project](https://github.com/debrajhyper/Personal-Contact-Manager)** - [live](https://pcm.vercel.app/)
 
-- 🌱 I’m currently learning **[Spring Boot Framework](https://www.youtube.com/watch?v=vtPkZShrvXQ)** and developing proficiency with **Java**
+- 🌱 I’m currently learning **[Ansible](https://docs.ansible.com/ansible/latest/index.html)** and developing proficiency with **Devops**
 
 - 👨‍💻 All of my projects are available at [fueler.io/@debraj](https://fueler.io/debraj)
 
-- 📝 I write articles on [Medium](https://debrajkarmakar-25805.medium.com/)
+- 📝 I write blogs on [Hashnode](https://debrajkarmakar.hashnode.dev/)
 
 - 💬 Ask me about **Designe or any tech related stuff**
 
@@ -81,6 +81,7 @@ I'm a people person, let's connect!
 ## 🎯 Things I code with:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"></span>&nbsp;
@@ -109,6 +110,7 @@ I'm a people person, let's connect!
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30px"/></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="30px"></span>&nbsp;
