@@ -19,7 +19,7 @@ I'm a people person, let's connect!
 [![LinkedIn URL](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/debrajkarmakar010/)
 
 
-- 🔭 I’m currently working on **[Personal Contact Manager Project](https://github.com/debrajhyper/Personal-Contact-Manager)** - [live](https://pcm.vercel.app/)
+- 🔭 I’m currently working on **[Iprompt - Discover & share AI-powered prompts](https://github.com/debrajhyper/Iprompt)** - [live](https://iprompt.vercel.app)
 
 - 🌱 I’m currently learning **[Ansible](https://docs.ansible.com/ansible/latest/index.html)** and developing proficiency with **Devops**
 
