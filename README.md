@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Debraj Karmakar 👋</h1>
+<h1 align="center">Hello, I'm Debraj Karmakar 👋</h1>
 <p>
-Perfection-obsessed Web Developer, currently I am a Computer Science Engineering student. My interests range from technology to design. I am also interested in art, creativity, entrepreneurship, and travel.
-<br>
-<br>
-Loves open-sourcing cool projects on Github and helping the Web community on StackOverflow and Behance.
-<br>
-<br>
-Currently 💻 Web and 🎨 Design enthusiast.
+  A meticulous web developer immersed in the fusion of technology, design, art, creativity, entrepreneurship, and travel. 
+  <br/>
+  Currently deeply involved in web development and design, I love contributing to the community through open-source projects on GitHub.
+  <br/>
+  <br/>
+  Ready to elevate your vision? Hire me as your Developer extraordinaire!
 </p>
+
 
 
 ![Debraj's Trophy](https://github-profile-trophy.vercel.app/?username=debrajhyper&row=1&margin-w=20&no-frame=true&no-bg=true&theme=algolia)
