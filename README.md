@@ -16,7 +16,8 @@
 I'm a people person, let's connect!
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/debraj_010.svg?style=social&label=Follow)](https://twitter.com/debraj_010)&nbsp;
-[![LinkedIn URL](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/debrajkarmakar010/)
+[![LinkedIn URL](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/debrajkarmakar010/)&nbsp;
+[![Peerlist](https://github-readme-badge.peerlist.io/api/debraj)](https://peerlist.io/debraj)&nbsp;
 
 
 - 🔭 I’m currently working on **[Iprompt - Discover & share AI-powered prompts](https://github.com/debrajhyper/Iprompt)** - [live](https://iprompt.vercel.app)
